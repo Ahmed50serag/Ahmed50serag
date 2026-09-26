@@ -6,16 +6,15 @@ I'm a Software Engineering student and Full-Stack Developer passionate about bui
 
 I enjoy turning ideas into functional web experiences and continuously improving my skills through real-world projects.
 
-  🚀Tech Stack:
-  
-  Frontend:HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular
-  
-  Backend:C#, .NET, ASP.NET Core, Node.js, REST APIs
-  
-  Databases:SQL Server, MongoDB
-  
-  Tools: Git, GitHub, Visual Studio, VS Code
-  
+🚀 Tech Stack
+
+| Category         | Technologies                                                                  |
+| ---------------- | ----------------------------------------------------------------------------- |
+| 🎨 **Frontend**  | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular" /> |
+| ⚙️ **Backend**   | <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />                 |
+| 🗄️ Database     |    SQL Server    <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+| 🛠️ **Tools**    | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />   |
+
 📌 Currently:
 
 * 🔨 Building full-stack web applications
@@ -26,13 +25,19 @@ I enjoy turning ideas into functional web experiences and continuously improving
 
 * 🚀 Exploring modern web development practices
 
-📂 Featured Projects:
+📂 Featured Projects
 
-  ☕ VELORA Café — Modern café landing page built with HTML, CSS, Bootstrap & JavaScript.
-  
-  📦 Inventory Management System** — Inventory management application built with ASP.NET Core.
-  
-  🛒 AS Store — E-commerce frontend project built with Angular.
+☕ [VELORA Café](https://github.com/Ahmed50serag/velora-cafe-landing-page)
+
+  Modern café landing page built with HTML, CSS, Bootstrap & JavaScript.
+
+ 📦 Inventory Management System
+ 
+  Inventory management application built with ASP.NET Core.
+
+ 🛒 AS Store
+ 
+  E-commerce frontend project built with Angular.
   
 📫 Connect With Me:
 
